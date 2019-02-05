@@ -1,3 +1,3 @@
-# ripple_chat
+# RippleChat
 
 A chatting app make with Flutter for online and offline use.
